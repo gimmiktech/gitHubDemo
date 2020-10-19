@@ -1,0 +1,6 @@
+secrets.txt
+
+# this is a comment
+
+# you can have wild cards
+secret*.txt
